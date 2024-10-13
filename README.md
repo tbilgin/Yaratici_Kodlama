@@ -13,4 +13,4 @@ Kullanacagimiz p5 dijital karalama defterlerimiz asagidaki gibidir:
 - [Son defter](https://editor.p5js.org/tbilgin/sketches/Li-Bp0Pjc)
 
 
-Lütfen atölye sirasinda 1-2 üretimizi [bu padlet sitesine](https://padlet.com/bilg1/pera-da-yaratici-kodlama-at-lyesi-lhbe45t4bf3lit4c) yükleyin.
+Lütfen atölye sirasinda 1-2 üretiminizi [bu padlet sitesine](https://padlet.com/bilg1/pera-da-yaratici-kodlama-at-lyesi-lhbe45t4bf3lit4c) yükleyin.
